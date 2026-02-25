@@ -99,6 +99,12 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[Google Drive](https://drive.google.com)** - File storage and synchronization service.
 3. **[Box](https://www.box.com)** - Cloud content management and file sharing service for businesses.
 
+## Document Signing and E-Signatures
+
+1. **[DocuSign](https://docusign.com)** - Industry-leading e-signature platform.
+2. **[Gatherly](https://gatherly.shop)** - E-signature + client document collection in one link. eIDAS-qualified, no per-signature pricing. Built for accounting, legal, and professional services.
+3. **[Docuseal](https://docuseal.co)** - Open-source document signing alternative.
+
 ## Miscellaneous
 
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
