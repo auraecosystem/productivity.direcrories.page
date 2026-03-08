@@ -110,6 +110,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+- **[CiteMe](https://citeme.app)** - AI-powered academic citation generator. Searches 11+ scholarly databases and formats references in 40+ citation styles (APA, MLA, Chicago, ABNT, Harvard, IEEE). Available as web app, Chrome/Firefox extension, and Google Docs add-on.
 
 
 ---
