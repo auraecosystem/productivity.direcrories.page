@@ -109,6 +109,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
+- **[Dorothy](https://github.com/Charlie85270/Dorothy)** - Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
 
 
