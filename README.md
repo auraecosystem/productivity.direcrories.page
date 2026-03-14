@@ -65,9 +65,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ## Collaboration
 
-1. **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
-2. **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
-3. **[Zoom](https://zoom.us)** - [review](https://productivity.directory/zoom) - Video conferencing and web conferencing service.
+1. **[HeyRobyn](https://heyrobyn.ai)** - Native macOS unified inbox for email, Slack, and GitHub. Built with SwiftUI, privacy-first with all data on-device.
+2. **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
+3. **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
+4. **[Zoom](https://zoom.us)** - [review](https://productivity.directory/zoom) - Video conferencing and web conferencing service.
 
 ## Project Management
 
