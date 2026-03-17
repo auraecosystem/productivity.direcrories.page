@@ -101,9 +101,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ## Miscellaneous
 
-1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
-2. **[Zapier](https://zapier.com)** - Automation for busy people.
-3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
+1. **[ToolArks](https://toolarks.com)** - Comprehensive, privacy-first online toolset including JSON formatter/validator, JSON compare/diff, YAML editor, text/code diff tools, cron generator, time zone converter, and more. 100% client-side processing.
+2. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
+3. **[Zapier](https://zapier.com)** - Automation for busy people.
+4. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
 
 ## AI Tools
 
