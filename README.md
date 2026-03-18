@@ -106,6 +106,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
 
 ## AI Tools
+- **[SocialBu](https://socialbu.com)** - AI-powered social media management platform for scheduling, publishing, automation, analytics, and team collaboration across major social networks.
 
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
