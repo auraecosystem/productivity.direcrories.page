@@ -28,6 +28,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.
 3. **[Asana](https://asana.com)** - [review](https://productivity.directory/asana) - Project management tool for teams.
 4. **[Microsoft To Do](https://todo.microsoft.com)** - [review](https://productivity.directory/microsoft-todo) - Task management tool by Microsoft.
+5. **[TAMSIV](https://www.tamsiv.com)** - Voice-powered AI task manager. Talk to create tasks, memos, and calendar events. Gamification, folder hierarchy, real-time collaboration, 6 languages.
 
 ## Project Management
 
