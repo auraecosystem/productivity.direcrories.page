@@ -110,6 +110,8 @@ A curated list of awesome productivity tools and products to help you stay organ
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+- **[Overloop CLI](https://github.com/sortlist/overloop-cli)** - AI-powered outbound engine. Source 450M+ contacts, run email and LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.
+- **[Signals CLI](https://github.com/sortlist/signals-cli)** - Intent signal monitoring for sales teams. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output. Install via `npm i -g signals-sortlist-cli`.
 
 
 ---
