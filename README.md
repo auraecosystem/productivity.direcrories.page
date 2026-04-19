@@ -2,6 +2,8 @@
 
 A curated list of awesome productivity tools and products to help you stay organized, focused, and efficient. Feel free to suggest additions to this list!
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ### related links
 
 [Productivity Apps](https://productivity.directory) - [Productivity Hacks](https://productivity.directory/notes/hacks) - [Productivity Blog](https://blog.productivity.directory) - [Productivity Newsletter](https://newsletter.productivity.directory)
