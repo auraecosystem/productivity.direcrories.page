@@ -116,3 +116,15 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 **Contribute to This List**
 Your contributions are welcome! If you have a favorite productivity tool that's not listed here, feel free to add it or suggest it. Just fork this repository, add your tool to the list, and submit a pull request. We're always looking for new tools to make our lives more productive!
+
+## Calculator Tools
+
+- [Levyio](https://levyio.com/) - Free US tax calculators (income, property, sales) by state and city.
+- [Amortio](https://www.amortio.com/) - Free mortgage calculators with PITI breakdown and FHA/VA/USDA loan analysis.
+- [Salario](https://salario.io/) - Free US salary calculator by city × occupation, BLS-data based.
+- [Hammerio](https://hammerio.com/) - Free construction cost calculators by US city.
+- [Calorique](https://calorique.io/) - Free nutrition calculators (TDEE, BMR, macros).
+- [Degreecalc](https://degreecalc.com/) - Free college cost and ROI calculators.
+- [Jouleio](https://jouleio.com/) - Free solar payback and EV cost calculators.
+- [Bytepane](https://bytepane.com/) - Free developer tools (JSON, regex, base64, cheatsheets).
+
