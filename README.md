@@ -64,6 +64,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 4. **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
 
 ## Collaboration
+4. **[Ano.chat](https://ano.chat)** - Team chat with Claude Code built in. The #1 Slack alternative for AI-native teams.
 
 1. **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
 2. **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
