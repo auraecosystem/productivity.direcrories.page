@@ -110,6 +110,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+- **[LandscapioAI](https://www.landscapioai.com/)** - AI landscape design and planning tool for generating yard design plans, cost estimates, project zones, and contractor-ready briefs.
 
 
 ---
