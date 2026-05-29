@@ -39,6 +39,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 - [ClickUp](https://productivity.directory/clickup)
 - [Microsoft Project](https://productivity.directory/microsoft-project)
 
+## Habit Tracking
+
+1. **[HabitIt](https://habitit.app)** - Habit tracker with auto-tapering schedules. Habit chains, automatic pattern detection, money-saved counter, AI insights, Health sync (iOS, Android, Apple Watch, Wear OS).
+
 ## Time Tracking
 
 1. **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - [tutorial](https://blog.productivity.directory/how-to-use-toggl-track-a-beginners-guide-2bd299986bcb) - Easy time tracking for any project.
