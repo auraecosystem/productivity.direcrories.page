@@ -23,6 +23,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 - [Miscellaneous](#miscellaneous)
 
 ## Task Management
+- **[Trider](https://myhabits.in)** - AI-powered habit tracker with smart reminders, streak analytics, and personalized insights. ([Android](https://play.google.com/store/apps/details?id=dev.trider.app))
 
 1. **[Trello](https://trello.com)** - [review](https://productivity.directory/trello) - A visual tool for organizing your work and life.
 2. **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.
