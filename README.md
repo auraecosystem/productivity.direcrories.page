@@ -104,6 +104,8 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
+4. **[Xianyu Order Ledger Quick Note Tool](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/xianyu-virtual-product-ledger-template.html)** - Free browser tool for digital product sellers to calculate order revenue, platform fees, costs, after-sales time, gross margin, and a copyable Excel ledger row.
+5. **[Digital Product Seller Ledger Sample](https://ronnie2025.github.io/xianyu-virtual-product-ledger-sample/)** - Free Excel and CSV ledger sample for tracking digital product orders, costs, refunds, and weekly review actions.
 
 ## AI Tools
 
