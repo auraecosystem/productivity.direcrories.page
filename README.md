@@ -92,6 +92,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Forest](https://www.forestapp.cc)** - App that helps stay focused by planting virtual trees.
 2. **[Freedom](https://freedom.to)** - Block distracting websites and apps.
 3. **[Focus@Will](https://www.focusatwill.com)** - Music service based on human neuroscience to improve focus.
+4. **[FastRead](https://fastread.app)** - Free bionic reading tool that bolds the start of each word to help you focus and read faster.
 
 ## File Organization
 
