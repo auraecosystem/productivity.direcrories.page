@@ -104,6 +104,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
+4. **[Toolknit](https://toolknit.com)** - Free online tools library with 90+ browser-based utilities for PDF, images, video, audio, text, calculators, and more. No signup, no uploads required.
 
 ## AI Tools
 
