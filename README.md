@@ -100,6 +100,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 3. **[Box](https://www.box.com)** - Cloud content management and file sharing service for businesses.
 
 ## Miscellaneous
+- [InvoiceGen](https://invoice-generator.appsnap.co.uk) - Free online invoice generator — create professional PDF invoices in seconds, no signup required
 
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
