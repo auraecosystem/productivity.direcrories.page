@@ -38,6 +38,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 - [Wrike](https://productivity.directory/wrike)
 - [ClickUp](https://productivity.directory/clickup)
 - [Microsoft Project](https://productivity.directory/microsoft-project)
+* [Korelyy](https://korelyy.com) - 100+ free browser-based tools (emoji mixer, password generator, JSON formatter, QR codes, life-weeks, etc.) running entirely client-side. No signup, no tracking, 6 languages.
 
 ## Time Tracking
 
