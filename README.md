@@ -92,6 +92,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Forest](https://www.forestapp.cc)** - App that helps stay focused by planting virtual trees.
 2. **[Freedom](https://freedom.to)** - Block distracting websites and apps.
 3. **[Focus@Will](https://www.focusatwill.com)** - Music service based on human neuroscience to improve focus.
+4. **[SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921)** - On-device iPhone screen-time blocker for adults with scheduled blocks, loophole-resistant website blocking, and no account or cloud.
 
 ## File Organization
 
