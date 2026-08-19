@@ -105,6 +105,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
 
+## Note Taking
+
+1. **[TopicSplit](https://github.com/andrwspt/topicsplit)** - Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for breaking long articles into atomic notes for Obsidian, Logseq, Notion.
+
 ## AI Tools
 
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
