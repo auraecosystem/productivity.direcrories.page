@@ -113,9 +113,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ## AI Tools
 
-*A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
+*A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)*** 
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+- **[TopicSplit](https://github.com/andrwspt/topicsplit)** - [demo](https://andrwspt.github.io/topicsplit/) - Free offline semantic text grouper. Split articles and transcripts into topic segments by meaning, not word count. 100% browser-based, MIT licensed.
 
 
 ---
