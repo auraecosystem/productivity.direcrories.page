@@ -62,6 +62,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[Notion](https://www.notion.so)** - [review](https://productivity.directory/notion) - All-in-one workspace for notes, tasks, wikis, and databases.
 3. **[OneNote](https://www.onenote.com)** - Microsoft's digital note-taking app.
 4. **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
+5. **[TopicSplit](https://github.com/andrwspt/topicsplit)** - Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for breaking long articles into atomic notes for Obsidian, Logseq, Notion.
 
 ## Collaboration
 
@@ -104,12 +105,18 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
+4. **[TopicSplit](https://github.com/andrwspt/topicsplit)** - Free offline semantic text grouper — split pasted text into topic segments by meaning. Perfect for breaking articles, transcripts, or meeting notes into clean markdown. 100% client-side, no server, no API key.
+
+## Note Taking
+
+1. **[TopicSplit](https://github.com/andrwspt/topicsplit)** - Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for breaking long articles into atomic notes for Obsidian, Logseq, Notion.
 
 ## AI Tools
 
-*A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
+*A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)*** 
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+- **[TopicSplit](https://github.com/andrwspt/topicsplit)** - [demo](https://andrwspt.github.io/topicsplit/) - Free offline semantic text grouper. Split articles and transcripts into topic segments by meaning, not word count. 100% browser-based, MIT licensed.
 
 
 ---
