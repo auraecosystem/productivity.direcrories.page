@@ -104,6 +104,11 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
+1. **[Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com)** - Free calculator for lawn mowing cost estimates by area, rate, and extras.
+1. **[WattsCalc](https://wattscalc.com)** - Free wattage and electricity cost calculator for appliances and devices.
+1. **[Embroidery Pricing Calculator](https://embroiderypricingcalculator.com)** - Free pricing calculator for embroidery jobs (stitches, fabric, labor).
+1. **[Image to Crochet Pattern](https://imagetocrochetpattern.com)** - Free tool that converts images into crochet patterns.
+1. **[Pressure Washer Fix](https://pressurewasherfix.com)** - Free troubleshooting and repair guides for pressure washer issues.
 
 ## AI Tools
 
